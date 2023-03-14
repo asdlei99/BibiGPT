@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.2](https://github.com/JimmyLv/BibiGPT/compare/v1.5.1...v1.5.2) (2023-03-14)
+
+
+### Bug Fixes
+
+* improve log ([7601dfc](https://github.com/JimmyLv/BibiGPT/commit/7601dfcfb15eaae588a67f296f6f14e8ecf3685e))
+* increase limit cout ([458ee3c](https://github.com/JimmyLv/BibiGPT/commit/458ee3cf0127c047881205b4d7e7241116853c15))
+
 ## [1.5.1](https://github.com/JimmyLv/BibiGPT/compare/v1.5.0...v1.5.1) (2023-03-14)
 
 
